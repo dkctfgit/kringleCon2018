@@ -18,3 +18,5 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 3 (Tangle Coalbox): Lethal ForensicELFication Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-3-(Tangle-Coalbox):-Lethal-ForensicELFication-Cranberry-Pi-Terminal)
 
 [Objective 3: De Brujin Sequence](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-3:-De-Brujin-Sequences)
+
+[Elf Terminal 4 (Wunorse Openslae): Stall Mucking Report Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-4-(Wunorse-Openslae):-Stall-Mucking-Report-Cranberry-Pi-terminal)
