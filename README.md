@@ -13,4 +13,5 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 
 [Elf Terminal 2 (Minty Candycane): The Name Game Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-2-(Minty-Candycane):-The-Name-Game-Cranberry-Pi-terminal)
 
+[Objective 2: Directory Browsing](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-2:-Directory-Browsing)
 
