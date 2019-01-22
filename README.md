@@ -15,3 +15,4 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 
 [Objective 2: Directory Browsing](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-2:-Directory-Browsing)
 
+[Elf Terminal 3 (Tangle Coalbox): Lethal ForensicELFication Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-3-(Tangle-Coalbox):-Lethal-ForensicELFication-Cranberry-Pi-Terminal)
