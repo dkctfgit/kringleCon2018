@@ -22,3 +22,5 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 4 (Wunorse Openslae): Stall Mucking Report Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-4-(Wunorse-Openslae):-Stall-Mucking-Report-Cranberry-Pi-terminal)
 
 [Objective 4: Data Repo Analysis](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-4:-Data-Repo-Analysis)
+
+[Elf Terminal 5 (Holly Evergreen): CURLing Master Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-5-(Holly-Evergreen):-CURLing-Master-Cranberry-Pi-terminal)
