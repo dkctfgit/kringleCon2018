@@ -26,3 +26,7 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 5 (Holly Evergreen): CURLing Master Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-5-(Holly-Evergreen):-CURLing-Master-Cranberry-Pi-terminal)
 
 [Objective 5: AD Privillege Discovery](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-5:-AD-Privillege-Discovery)
+
+[Elf Terminal 6 (Pepper Minstix): Yule Log Analysis Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-6-(Pepper-Minstix):-Yule-Log-Analysis-Cranberry-Pi-Terminal)
+
+[Objective 6: Badge Manipulation](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-6:-Badge-Manipulation)
