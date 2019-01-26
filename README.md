@@ -30,3 +30,7 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 6 (Pepper Minstix): Yule Log Analysis Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-6-(Pepper-Minstix):-Yule-Log-Analysis-Cranberry-Pi-Terminal)
 
 [Objective 6: Badge Manipulation](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-6:-Badge-Manipulation)
+
+[Elf Terminal 7 (Sparkle Redberry): Dev Ops Fail Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-7-(Sparkle-Redberry):-Dev-Ops-Fail-Cranberry-Pi-Terminal)
+
+[Objective 7: HR Incident Response](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-7:-HR-Incident-Response)
