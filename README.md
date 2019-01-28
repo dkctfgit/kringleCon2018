@@ -1,4 +1,4 @@
-# KringleCon2018
+# Sans Holiday hack Challenge 2018
 Work through of my KringleCon 2018
 
 KringleCon 2018 Website: https://www.holidayhackchallenge.com/2018/story.html
