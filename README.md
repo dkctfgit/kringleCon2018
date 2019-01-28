@@ -34,3 +34,7 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 7 (Sparkle Redberry): Dev Ops Fail Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-7-(Sparkle-Redberry):-Dev-Ops-Fail-Cranberry-Pi-Terminal)
 
 [Objective 7: HR Incident Response](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-7:-HR-Incident-Response)
+
+[Elf Terminal 8 (SugarPlum Mary): Python Escape from LA Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-8-(SugarPlum-Mary):-Python-Escape-from-LA-Cranberry-Pi-terminal)
+
+[Objective 8: Network Traffic Forensics](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-8:-Network-Traffic-Forensics)
