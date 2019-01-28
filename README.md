@@ -38,3 +38,7 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 8 (SugarPlum Mary): Python Escape from LA Cranberry Pi terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-8-(SugarPlum-Mary):-Python-Escape-from-LA-Cranberry-Pi-terminal)
 
 [Objective 8: Network Traffic Forensics](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-8:-Network-Traffic-Forensics)
+
+[Elf Terminal 9 (Shinny Upatree): Sleigh Bell Lottery Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-9-(Shinny-Upatree):-Sleigh-Bell-Lottery-Cranberry-Pi-Terminal)
+
+[Objective 9.1: Catch the Malware](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.1:-Catch-the-Malware)
