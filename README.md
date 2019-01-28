@@ -44,3 +44,5 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Objective 9.1: Catch the Malware](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.1:-Catch-the-Malware)
 
 [Objective 9.2: Identify the Domain](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.2:-Identify-the-Domain)
+
+[Objective 9.3: Stop the Malware](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.3:-Stop-the-Malware)
