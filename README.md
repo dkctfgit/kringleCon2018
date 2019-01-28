@@ -42,3 +42,5 @@ Massive credits to KringleCon 2018 Discord channel, where everyone were helping 
 [Elf Terminal 9 (Shinny Upatree): Sleigh Bell Lottery Cranberry Pi Terminal](https://github.com/dkctfgit/kringleCon2018/wiki/Elf-Terminal-9-(Shinny-Upatree):-Sleigh-Bell-Lottery-Cranberry-Pi-Terminal)
 
 [Objective 9.1: Catch the Malware](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.1:-Catch-the-Malware)
+
+[Objective 9.2: Identify the Domain](https://github.com/dkctfgit/kringleCon2018/wiki/Objective-9.2:-Identify-the-Domain)
